@@ -68,6 +68,25 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
+    // Firebase Services
     implementation(libs.firebase.bom)
     implementation(libs.firebase.analytics)
+    implementation (libs.firebase.auth.ktx)
+    implementation (libs.firebase.firestore.ktx)
+    implementation (libs.firebase.storage.ktx)
+    implementation (libs.firebase.messaging.ktx)
+
+    // AndroidX Libraries
+    implementation (libs.androidx.core.ktx.v1120)
+    implementation (libs.androidx.appcompat)
+    implementation (libs.material)
+    implementation (libs.androidx.constraintlayout)
+
+    // Lifecycle and ViewModel
+    implementation (libs.androidx.lifecycle.extensions)
+    implementation (libs.androidx.lifecycle.viewmodel.ktx)
+    implementation (libs.androidx.lifecycle.livedata.ktx)
+
+    // RecyclerView
+    implementation (libs.androidx.recyclerview)
 }
