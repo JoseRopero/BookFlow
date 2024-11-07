@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name -->
+    <string name="app_name">BookFlow</string>
+
+    <!-- Splash screen -->
+    <string name="splash_title">BookFlow</string>
+
+    <!-- Login screen -->
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_remember_me">Remember me</string>
+    <string name="login_forgot_password">Forgot Password?</string>
+    <string name="login_button_login">Login</string>
+    <string name="login_button_login_google">Sign in with Google</string>
+    <string name="login_no_account">Don´t have an account?</string>
+    <string name="login_create_account">Create a new account</string>
+
+    <!-- Pantalla de registro -->
+    <string name="register_title">New account</string>
+    <string name="register_name">Full name</string>
+    <string name="register_email">Email</string>
+    <string name="register_username">Username</string>
+    <string name="register_password">Password</string>
+    <string name="register_read">I have read and accept</string>
+    <string name="register_terminos">terms and conditions</string>
+    <string name="register_button">Sign In</string>
+    <string name="register_account">Do you already have an account?</string>
+    <string name="register_login_here">Log in here</string>
+
+    <!-- Messages and notifications -->
+    <string name="error_empty_fields">Please fill in all fields</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="registration_successful">Registration successful</string>
+    <string name="login_successful">Login successful</string>
+    <string name="logout_successful">You have logged out</string>
+    <string name="error_login">Login error: %1$s</string>
+    <string name="error_registration">Registration error: %1$s</string>
+
+    <!-- Common buttons -->
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+</resources>

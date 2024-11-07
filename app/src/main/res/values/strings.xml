@@ -1,3 +1,46 @@
 <resources>
     <string name="app_name">BookFlow</string>
+
+    <!-- Pantalla de carga -->
+    <string name="splash_title">BookFlow</string>
+
+    <!-- Pantalla de inicio de sesión -->
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="login_subtitle">Inicia sesión para continuar</string>
+    <string name="login_email">Correo Electrónico</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_remember_me">Recuérdame</string>
+    <string name="login_forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="login_button_login">Iniciar Sesión</string>
+    <string name="login_button_login_google">Iniciar Sesión con Google</string>
+    <string name="login_no_account">¿No tienes una cuenta?</string>
+    <string name="login_create_account">Crear una nueva cuenta</string>
+
+    <!-- Pantalla de registro -->
+    <string name="register_title">Crear Cuenta</string>
+    <string name="register_name">Nombre Completo</string>
+    <string name="register_email">Email</string>
+    <string name="register_username">Nombre de usuario</string>
+    <string name="register_password">Contraseña</string>
+    <string name="register_read">He leido y acepto</string>
+    <string name="register_terminos">términos y condiciones</string>
+    <string name="register_button">Registrarse</string>
+    <string name="register_account">¿Ya tienes una cuenta?</string>
+    <string name="register_login_here">Inicia sesión aquí</string>
+
+    <!-- Mensajes y notificaciones -->
+    <string name="error_empty_fields">Por favor, completa todos los campos</string>
+    <string name="error_invalid_email">Por favor, ingresa un correo electrónico válido</string>
+    <string name="error_password_length">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="registration_successful">Registro exitoso</string>
+    <string name="login_successful">Inicio de sesión exitoso</string>
+    <string name="logout_successful">Has cerrado sesión</string>
+    <string name="error_login">Error en el inicio de sesión: %1$s</string>
+    <string name="error_registration">Error en el registro: %1$s</string>
+
+    <!-- Botones comunes -->
+    <string name="button_ok">Aceptar</string>
+    <string name="button_cancel">Cancelar</string>
+
+
 </resources>
