@@ -19,11 +19,13 @@
     <string name="login_create_account">Create a new account</string>
 
     <!-- Pantalla de registro -->
+    <string name="register_back">Back</string>
     <string name="register_title">New account</string>
     <string name="register_name">Full name</string>
     <string name="register_email">Email</string>
     <string name="register_username">Username</string>
     <string name="register_password">Password</string>
+    <string name="register_repeat_password">Repeat Password</string>
     <string name="register_read">I have read and accept</string>
     <string name="register_terminos">terms and conditions</string>
     <string name="register_button">Sign In</string>

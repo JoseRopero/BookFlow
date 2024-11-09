@@ -90,4 +90,6 @@ dependencies {
 
     // RecyclerView
     implementation (libs.androidx.recyclerview)
+
+    implementation(libs.play.services.auth)
 }
