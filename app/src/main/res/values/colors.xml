@@ -19,4 +19,6 @@
     <color name="colorOnAccent">#FFFFFF</color>
     <color name="colorTextPrimary">#000000</color>
     <color name="colorTextSecondary">#757575</color>
+
+    <color name="textColorSplash">#4AB0FE</color>
 </resources>
